@@ -4,6 +4,7 @@
 
 - Tomatto
 - Spagetti
+- olive oil
 
 
 ## Instructions
